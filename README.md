@@ -12,5 +12,3 @@ A simple C++ program that calculates CGPA based on grades and credit hours.
 ## Language Used
 C++
 
-## Author
-Neha Gupta
