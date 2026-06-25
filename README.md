@@ -1,4 +1,4 @@
-# CodeAlpha CGPA Calculator
+# CGPA Calculator
 
 A simple C++ program that calculates CGPA based on grades and credit hours.
 
